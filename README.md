@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GijongKim
-- 👀 Product Management / Growth Marketing / Web Back-End
+- 👀 Product Manager / Growth hacking / Web(App) Back-End
 - 🌱 Python(Django) / Web page development
-- 💞️ Front-End developer / Teacher♡
 - 📫 gijong5966@naver.com
 
 <!---
