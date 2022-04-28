@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GijongKim
-- 👀 Product Manager / Growth hacker / Web(App) Back-End
-- 🌱 Python(Django) / Web page development
-- 📫 gijong5966@naver.com
+- 👀 Product Manager / Growth hacker
+- 📫 gijong5966@gmail.com
 
 <!---
 GijongKim/GijongKim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
